@@ -25,8 +25,10 @@ In this project, I focused on creating a layout that reflects the peaceful and h
 ## Screenshots
 Screenshots provide a glimpse of the design and layout:
 
-![Homepage](https://example.com/screenshot-homepage.jpg)  
-![Treatment Programs](https://example.com/screenshot-treatment.jpg)
+![Homepage](https://github.com/sidharthrajcj/Punarjjany/blob/main/Home%20(2).png)  
+![Treatment Programs](https://github.com/sidharthrajcj/Punarjjany/blob/main/treatments.png)
+![About Us](https://github.com/sidharthrajcj/Punarjjany/blob/main/aboutuss.png)
+![Gallery Page](https://github.com/sidharthrajcj/Punarjjany/blob/main/gallery.png)
 
 ## My Role
 I developed the frontend of this website using HTML, CSS, Bootstrap, and JavaScript to ensure responsive design and ease of navigation. I also played a key role in shaping the visual identity, focusing on a user-friendly, calming interface.
